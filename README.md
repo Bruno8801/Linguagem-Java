@@ -49,7 +49,9 @@ Clone este repositório e explore os exemplos:
 
 ```bash
 git clone https://github.com/Bruno8801/Linguagem-Java.git
+```
 
+```markdown
 ## 📄 Licença
-Este projeto está licenciado sob os termos da [MIT License](LICENSE).
-
+Este projeto está licenciado sob os termos da [MIT License] (LICENSE).
+```
