@@ -5,7 +5,7 @@ public class main_pagamento {
         Funcionario[] meusFuncionarios = {
             new Assalariado("Akalih", 10025, 2800),
             new Horista("Yone", 10029, 36, 98),
-            new Comissionado("Yone", 10042, 180, 35)
+            new Comissionado("Jhin", 10042, 180, 35)
         };
 
         Funcionario f;
